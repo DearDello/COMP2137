@@ -1,7 +1,7 @@
 #!/bin/bash
 # script for Assignment 2 in linux automation
 # starting and following the procedure step by step for readabilty 
-# Function to check and modify network interface configuration
+# firstly Function to check and modify network interface configuration
 
 configure_network_interface() {
     echo "🌐 Configuring the network interface..."
